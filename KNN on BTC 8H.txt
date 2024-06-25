@@ -1,5 +1,4 @@
-// This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
-// © PresentTrading
+//Reference from TV community, not original work of mine
 
 //@version=5
 strategy("AI Volume Supertrend - Strategy [presentTrading]", overlay=true, precision=3, default_qty_type=strategy.cash, 
